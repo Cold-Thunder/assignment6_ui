@@ -1,0 +1,29 @@
+# ninja log v6
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/libflutter_linux_gtk.so	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_value.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/fl_view.h	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1549705bb831b4c7
+1	16990	1734970158966594309	flutter/_phony_	1549705bb831b4c7
+1	16990	1734970158966594309	/home/ColdThunder/Videos/dart/flutter assignments/assignment6_ui/build/linux/x64/debug/flutter/_phony_	1549705bb831b4c7
+16992	18627	1734970175958938899	runner/CMakeFiles/assignment6.dir/__/flutter/generated_plugin_registrant.cc.o	c80b216f52716a02
+16991	18629	1734970175958938899	runner/CMakeFiles/assignment6.dir/main.cc.o	f63641624405ac4f
+16992	18742	1734970175958938899	runner/CMakeFiles/assignment6.dir/my_application.cc.o	47485d987b14b137
+18742	19038	1734970177710974424	intermediates_do_not_run/assignment6	c18f4648f7538efc
+19038	19177	1734970178006980427	CMakeFiles/install.util	2822c794a5757c33
